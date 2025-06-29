@@ -1,5 +1,7 @@
 venv
+.ipynb_checkpoints
 arith_dataset.pt
 hex_dataset.pt
 sat_solve_dataset.pt
 single_sat_dataset.pt
+./experiments/.ipynb_checkpoints
