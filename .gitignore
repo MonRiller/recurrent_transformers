@@ -1,0 +1,5 @@
+venv
+arith_dataset.pt
+hex_dataset.pt
+sat_solve_dataset.pt
+single_sat_dataset.pt
